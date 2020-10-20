@@ -38,13 +38,13 @@ void ABP_StandUpPlate::Tick(float DeltaTime)
 
 void ABP_StandUpPlate::NotifyActorBeginOverlap(AActor* otherActor)
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Blue, FString::Printf(TEXT("Start")));
+	//GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Blue, FString::Printf(TEXT("Start")));
 	RaisePlate();
 }
 
 void ABP_StandUpPlate::NotifyActorEndOverlap(AActor* otherActor)
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Blue, FString::Printf(TEXT("End")));
+	//GEngine->AddOnScreenDebugMessage(-1, 5.0f, FColor::Blue, FString::Printf(TEXT("End")));
 	LayPlate();
 }
 
