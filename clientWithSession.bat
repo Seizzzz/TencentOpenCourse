@@ -1,0 +1,1 @@
+ "G:\UnrealEngine-release\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\Tencent.uproject" -game -log -nosteam -WINDOWED -ResX=1280 -ResY=720
