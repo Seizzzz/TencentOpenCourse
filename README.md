@@ -1,4 +1,11 @@
-
+# 骨骼动画  
+演示视频:  
+    链接：链接：https://pan.baidu.com/s/1XLPpK5EtelloO2lJHfTqXQ  
+    提取码：yqgy  
+apk：(ALT键 对应 音量减键)  
+    链接：链接：https://pan.baidu.com/s/1tUKge-MpauZw5hfTVQ0PSA  
+    提取码：gdbu  
+  
 # UMG界面  
 演示视频:  
     链接：https://pan.baidu.com/s/1epX4Mbn4xrYk_-oqKft2zQ  
@@ -7,7 +14,7 @@ apk：
     链接：https://pan.baidu.com/s/1Z9PcZlYKB2mQJVLGccNs-g  
     提取码：k46o  
   
-# 第二次作业  
+# 游戏模式  
 演示视频:  
     链接：https://pan.baidu.com/s/15HKRVefSF9_jLvNQ4pkBjw  
     提取码：q9cf  
@@ -15,7 +22,7 @@ apk：
 链接：https://pan.baidu.com/s/1IT5mxVD6blnqP1XoKiTxaw  
 提取码：6ksu  
   
-# 第一次作业  
+# UE4入门  
 演示视频:  
     链接：https://pan.baidu.com/s/1hhZPU4N0HOfOwNXQvTpsuA  
     提取码：04oi  
