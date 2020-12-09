@@ -16,10 +16,10 @@ public:
 	// Sets default values for this actor's properties
 	ABP_StandUpPlate();
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Replicated)
 	UBoxComponent* TriggerBox;
 
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Replicated)
 	UStaticMeshComponent* Plate;
 
 protected:
