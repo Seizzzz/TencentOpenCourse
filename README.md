@@ -1,3 +1,11 @@
+# AI技术介绍  
+演示视频:  
+    链接：https://pan.baidu.com/s/10t8r3RGkKkavnVfoZp9fkQ  
+    提取码：qo1y  
+apk：
+    链接：https://pan.baidu.com/s/1JrT6xLf7mGwDsSWUWb-OYw  
+    提取码：5zs6  
+
 # 网络同步  
 演示视频:  
     链接：https://pan.baidu.com/s/1ssZutBZX5Ltu6gYiiN_2Tw  
